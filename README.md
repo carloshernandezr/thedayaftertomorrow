@@ -25,6 +25,9 @@ You'll need to use the [Moment.js](https://momentjs.com/) library to work with d
 
 ![day planner demo](./Assets/05-Third-Party-APIs-homework-demo.gif)
 
+
+
+
 ## User Story
 
 AS AN employee with a busy schedule

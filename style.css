@@ -16,9 +16,12 @@ textarea{
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: rgb(252, 250, 250);
   border-radius: 0;
   border-bottom: 10px solid black;
+  
+  background-image: url("../calendar.jpg");
+  background-size: cover;
 }
 
 .description{
@@ -68,4 +71,13 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+
+.myfooter{
+
+  background-color: #04050f !important;
+  border-top: 6px solid rgb(12, 59, 211) !important;
+  color: #ffffff;
+
+
 }
