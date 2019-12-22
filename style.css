@@ -14,14 +14,17 @@ textarea{
 }
 
 .jumbotron {
+  background-image: url("../images/calendar.jpg");
+  background-size: cover;
+
   text-align: center;
   background-color: transparent;
   color: rgb(252, 250, 250);
   border-radius: 0;
   border-bottom: 10px solid black;
   
-  background-image: url("../images/calendar.jpg");
-  background-size: cover;
+  
+ 
 }
 s
 .description{
