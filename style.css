@@ -20,10 +20,10 @@ textarea{
   border-radius: 0;
   border-bottom: 10px solid black;
   
-  background-image: url("../calendar.jpg");
+  background-image: url("/calendar.jpg");
   background-size: cover;
 }
-
+s
 .description{
   white-space: pre-wrap;
 }
